@@ -11,7 +11,7 @@ of problems (3-4), you will read in data from a file using
 geometries based on coordinate information in the input data. 
 
 
-- **Exercise 1 is due by Tuesday, 8 November 2022, 3 pm**.
+- **Exercise 1 is due by Thursday, 9 November 2023, 3 pm**.
 
 - Don’t forget to check out the [hints for this week’s
 exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/exercise-1.html#hints)
